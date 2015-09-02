@@ -1,5 +1,5 @@
 body {
     width: 80%;
     margin: auto;
-    background: url("../resource/fuckingoff.png") repeat;
+    background: url("../resource/fuckingoff.png") no-repeat fixed bottom right;
 }
